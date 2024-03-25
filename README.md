@@ -14,7 +14,7 @@ This webpage was reformatted to satisfy the User's acceptance criteria when it c
 
 ## Deployment
 
-Provided as a link here - [Module 01](https://assiamahs.github.io/code_refactor1/)
+Provided as a link here - [Module 01](https://assiamahs.github.io/code_refactor/)
 
 ## Usage
 
