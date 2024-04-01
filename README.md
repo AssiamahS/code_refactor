@@ -8,9 +8,9 @@ This webpage was reformatted to satisfy the User's acceptance criteria when it c
 
 ## Visuals
 
-<img src="./assets/images/cost-managment.png" >
+<assets/images/digital-marketing-meeting.jpg>
 
-<img src="./assets/images/lead-genration.png" >
+<assets/images/ead-genration.png" >
 
 ## Deployment
 
