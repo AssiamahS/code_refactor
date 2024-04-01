@@ -9,7 +9,7 @@ This webpage has been reformatted to meet the User's acceptance criteria for the
 
 ![Digital Marketing Meeting](assets/images/digital-marketing-meeting.jpg)
 
-![ScreenShot of Site](assets/images/screenshot-site.jpg)
+![ScreenShot of Site](assets/images/Screenshot-site.png)
 
 ## Deployment
 
