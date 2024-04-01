@@ -9,7 +9,7 @@ This webpage has been reformatted to meet the User's acceptance criteria for the
 
 ![Digital Marketing Meeting](assets/images/digital-marketing-meeting.jpg)
 
-![Lead Generation](assets/images/lead-genration.png)
+![Lead Generation](assets/images/lead-generation.png)
 
 ## Deployment
 
